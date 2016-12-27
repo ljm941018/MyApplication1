@@ -6,7 +6,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.view.View.OnClickListener;
-//leejaemin
+//leejaemin2222222
 public class MainActivity extends AppCompatActivity implements OnClickListener {
 
     private Button mbuttonSimpleList1;
